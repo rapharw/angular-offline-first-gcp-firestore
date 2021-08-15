@@ -1,0 +1,1 @@
+# angular-offline-first-gcp-firestore
